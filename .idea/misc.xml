@@ -4,8 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
-        <option value="$PROJECT_DIR$/java-agent/pom.xml" />
-        <option value="$PROJECT_DIR$/agent-test/pom.xml" />
+        <option value="$PROJECT_DIR$/premain-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/agentmain-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/test-agent1/pom.xml" />
+        <option value="$PROJECT_DIR$/test-agent/pom.xml" />
       </list>
     </option>
   </component>

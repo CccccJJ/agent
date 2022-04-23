@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/agent.iml" filepath="$PROJECT_DIR$/agent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/agent-test/agent-test.iml" filepath="$PROJECT_DIR$/agent-test/agent-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-agent/java-agent.iml" filepath="$PROJECT_DIR$/java-agent/java-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agentmain-agent/agentmain-agent.iml" filepath="$PROJECT_DIR$/agentmain-agent/agentmain-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/premain-agent/premain-agent.iml" filepath="$PROJECT_DIR$/premain-agent/premain-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-agent/test-agent1.iml" filepath="$PROJECT_DIR$/test-agent/test-agent1.iml" />
     </modules>
   </component>
 </project>
